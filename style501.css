@@ -1,0 +1,40 @@
+body{
+    background-color: #dddddd;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: green;
+}
+
+.text1{
+    font-style: italic;
+}
+
+.text2{
+    color: red;
+    font-style: italic;
+}
+
+.text3{
+    color: green;
+}
+
+.text4{
+    color: blueviolet;
+}
+
+dt{
+    color: darkorchid;
+}
+
+hr{
+    border: 2px solid red;
+}
+
+li{
+    font-weight: bold;
+}

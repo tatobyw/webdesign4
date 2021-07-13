@@ -1,0 +1,17 @@
+.my-style{
+    background-color: blue;
+    width: 100%;
+    height: 200px;
+    animation-name: cat-color;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes cat-color{
+    from {
+        background-color: blue;
+    }
+    to {
+        background-color: red;
+    }
+}
